@@ -1,4 +1,4 @@
-const CONFIG = {
+const config = {
     introTitle: 'Quanh choss à!',
     introDesc: `Trái đất vốn lạ thường
     Mà sao em cứ đi nhầm đường
